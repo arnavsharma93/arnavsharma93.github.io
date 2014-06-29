@@ -25,9 +25,23 @@ image:
     {% else %}
       <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
     {% endif %}
+      <h2 style="font-size: 20px; margin-bottom: 30px; margin-top: -24px;"> {{ post.description }} </h2>
+
   </header>
+
   <div class="entry-content">
-    {{ post.content }}
+  <a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">
+    {{ post.introduction }} ...
+    </a>
+
+    <div class="social-share" style="text-align:center;">
+      <ul class="socialcount socialcount-small inline-list">
+        <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ post.url }}" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
+        <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ post.url }}" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
+        <li class="googleplus"><a href="https://plus.google.com/share?url={{ site.url }}{{ post.url }}" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
+    </ul>
+</div><!-- /.social-share -->
+
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}

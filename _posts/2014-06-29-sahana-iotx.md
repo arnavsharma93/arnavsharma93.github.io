@@ -4,6 +4,7 @@ title: Sahana IOTX
 description: "15<sup>th</sup>-22<sup>nd</sup> June, 2014 -  An incredible week with some wonderful people at Sri Lanka"
 modified: 2014-06-29
 tags: [SSF, Travel, Open Source, GSoC, Non-Technical]
+introduction: Sahana Software Foundation held its SahanaCamp and Sahana Conference in conjunction with the  Indian Ocean Tsunami 10th (IOTX) Anniversary convention in Colombo, Sri Lanka from 18<sup>th</sup>-22<sup>nd</sup> June. So, when Micheal (recently appointed the CEO of SSF, then the director) sent out an invitation mail to the community for the events
 image:
   feature: abstract-3.jpg
   credit: dargadgetz
