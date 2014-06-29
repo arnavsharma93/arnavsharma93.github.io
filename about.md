@@ -8,7 +8,7 @@ image:
     credit: Dax Kieran
     creditlink: http://subtlepatterns.com/?s=triangular
 
-share: true
+share: false
 ---
 
 ## Who am I?
