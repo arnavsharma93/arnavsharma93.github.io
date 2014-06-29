@@ -7,8 +7,6 @@ image:
     feature: congruent_pentagon.png
     credit: Dax Kieran
     creditlink: http://subtlepatterns.com/?s=triangular
-
-share: false
 ---
 
 ## Who am I?
