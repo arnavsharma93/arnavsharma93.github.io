@@ -39,7 +39,7 @@ FOSS is nothing but a few people with a common goal working together for the bet
 
 
 ### Some other highlights
-Just the title - each one of them can turn into a blogpost by itself.
+Just the title - each one of them can be a blogpost on its own.
 
 * White river rafting in Kelani River in Kitulgala
 * Sea food and lots and lots of it
