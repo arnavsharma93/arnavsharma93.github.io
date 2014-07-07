@@ -4,7 +4,7 @@ title: Sahana IOTX
 description: "15<sup>th</sup>-22<sup>nd</sup> June, 2014 -  An incredible week with some wonderful people at Sri Lanka"
 modified: 2014-06-29
 tags: [SSF, Travel, Open Source, GSoC, Non-Technical]
-introduction: Sahana Software Foundation held its SahanaCamp and Sahana Conference in conjunction with the  Indian Ocean Tsunami 10th (IOTX) Anniversary convention in Colombo, Sri Lanka from 18<sup>th</sup>-22<sup>nd</sup> June. So, when Micheal (recently appointed the CEO of SSF, then the director) sent out an invitation mail to the community for the events
+introduction: Sahana Software Foundation held its SahanaCamp and Sahana Conference in conjunction with the  Indian Ocean Tsunami 10th (IOTX) Anniversary convention in Colombo, Sri Lanka from 18<sup>th</sup>-22<sup>nd</sup> June. So, when Michael (recently appointed the CEO of SSF, then the director) sent out an invitation mail to the community for the events
 image:
   feature: abstract-3.jpg
   credit: dargadgetz
@@ -15,9 +15,9 @@ share: true
 
 I have been associated with Sahana Software Foundation since October, 2013, first as a volunteer contributor, then as a SSF intern for four months and since April as a GSoC intern.
 
-Sahana Software Foundation held its SahanaCamp and Sahana Conference in conjunction with the  Indian Ocean Tsunami 10th (IOTX) Anniversary convention in Colombo, Sri Lanka from 18<sup>th</sup>-22<sup>nd</sup> June. So, when Micheal (recently appointed the CEO of SSF, then the director) sent out an invitation mail to the community for the events, I was quick to accept it. Luckily, Google being the big hearted corporate it is, decided to fund our (all GSoC interns) travel, accomodation and food. Thus, we (Somay, Mayank, Arnav A., Gaurav, Hemant and I) were all ready to go except for Ambar who could not come.
+Sahana Software Foundation held its SahanaCamp and Sahana Conference in conjunction with the  Indian Ocean Tsunami 10th (IOTX) Anniversary convention in Colombo, Sri Lanka from 18<sup>th</sup>-22<sup>nd</sup> June. So, when Michael (recently appointed the CEO of SSF, then the director) sent out an invitation mail to the community for the events, I was quick to accept it. Luckily, Google being the big hearted corporate it is, decided to fund our (all GSoC interns) travel, accommodation and food. Thus, we (Somay, Mayank, Arnav A., Gaurav, Hemant and I) were all ready to go except for Ambar who could not come.
 
-Our week began on 15<sup>th</sup> of June when we had the Sahana Strategic Planning Session. It was here where we met other community members like Fran Boon, Dominic König, Micheal Howden, Ramindu Deshapriya, Chamindra de Silva, Nuwan Waidyanatha, Louiqa Raschid and others. It was fascinating to meet and spend some good time with them.
+Our week began on 15<sup>th</sup> of June when we had the Sahana Strategic Planning Session. It was here where we met other community members like Fran Boon, Dominic König, Michael Howden, Ramindu Deshapriya, Chamindra de Silva, Nuwan Waidyanatha, Louiqa Raschid and others. It was fascinating to meet and spend some good time with them.
 
 Our normal schedule was to report at the venue (Virtusa) at 9:30 (we were always running late. Why?), work till 6 and then party for the rest of the evening and night (that's why). The work was blissful. We were as involved in the discussion as any other member who has been working with Sahana since it's inception. That is another plus of contributing to FOSS, that your views get heard and hold value (as long as they have any).
 
